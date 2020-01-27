@@ -3,3 +3,5 @@ Constants python module to simply have constants eg. A list of the alphabet easi
 Ghetto interpreter for python which reads and replaces non standard syntax before running
 
 Sorting algorith viewer
+
+gui gor evaluation index calculation (multivariable weighted priority calculator)
