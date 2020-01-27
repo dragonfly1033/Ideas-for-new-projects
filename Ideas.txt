@@ -2,6 +2,4 @@ Constants python module to simply have constants eg. A list of the alphabet easi
 
 Ghetto interpreter for python which reads and replaces non standard syntax before running
 
-The snake game
-
 Sorting algorith viewer
