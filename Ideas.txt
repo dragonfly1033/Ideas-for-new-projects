@@ -4,4 +4,4 @@ Ghetto interpreter for python which reads and replaces non standard syntax befor
 
 Sorting algorith viewer
 
-gui gor evaluation index calculation (multivariable weighted priority calculator)
+Code to flowchart program (visio=>jpg?)
