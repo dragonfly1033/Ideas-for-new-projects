@@ -5,3 +5,7 @@ Ghetto interpreter for python which reads and replaces non standard syntax befor
 Sorting algorith viewer
 
 Code to flowchart program (visio=>jpg?)
+
+Media player with \w customisable options like speed and groupings
+
+
