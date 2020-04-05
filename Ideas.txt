@@ -10,6 +10,6 @@ Media player with \w customisable options like speed and groupings
 
 3D graphics engine
 
-processor with accompqnies text editor on which to write instructions
+processor with accompanying text editor on which to write instructions
 
 
