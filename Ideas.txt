@@ -8,4 +8,8 @@ Code to flowchart program (visio=>jpg?)
 
 Media player with \w customisable options like speed and groupings
 
+3D graphics engine
+
+processor with accompqnies text editor on which to write instructions
+
 
