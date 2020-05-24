@@ -1,3 +1,5 @@
+# Ideas for New Projects
+
 Constants python module to simply have constants eg. A list of the alphabet easily accessible
 
 Ghetto interpreter for python which reads and replaces non standard syntax before running
