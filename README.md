@@ -17,3 +17,5 @@ processor with accompanying text editor on which to write instructions
 jarvis https://github.com/Uberi/speech_recognition/issues/38
 
 brainfuck interpreter with live memory display
+
+wii add-ons style keyboard/mouse (adapt to application)
