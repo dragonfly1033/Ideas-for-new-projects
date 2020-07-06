@@ -19,3 +19,10 @@ jarvis https://github.com/Uberi/speech_recognition/issues/38
 brainfuck interpreter with live memory display
 
 wii add-ons style keyboard/mouse (adapt to application)
+
+Master AHK Script
+- auto correct
+- second keyboard remap menu-F24
+- make pygame easier
+- make long strings (email) easier
+- more...
